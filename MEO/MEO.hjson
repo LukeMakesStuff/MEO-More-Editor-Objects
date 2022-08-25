@@ -1,0 +1,8 @@
+name: "MEO"
+displayName: "MEO - More Editor Objects"
+author: Lolsy
+description: "MEO adds 27 new editor objects for mapmaking. This mod is planned to be updated, and will add more later! Current contents include: <br> <br> - 2 New Grass Colors <br> - New Sand Type <br> - 18 new Metal Floor color varients "
+version: "1.0"
+minGameVersion: "126"
+dependencies: [ ]
+hidden: false
